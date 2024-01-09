@@ -1,1 +1,1 @@
-# AQI-Prediction-
+# Air Quality Index -Prediction-
